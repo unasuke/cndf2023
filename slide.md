@@ -188,6 +188,14 @@ Open DevTools!
   * <https://github.com/F5Networks/quic-lb>
 * 議論&実験中
 
+# 余談: QUICを受け付ける
+* `Alt-Srv` ヘッダ
+  * `Alt-Svc: h3=":9443";ma=300;`
+  * <https://www.rfc-editor.org/rfc/rfc7838>
+  * <https://datatracker.ietf.org/doc/draft-duke-httpbis-quic-version-alt-svc/>
+* DNS `HTTPS` レコード
+  * <https://datatracker.ietf.org/doc/draft-ietf-dnsop-svcb-https/>
+
 # 個人的所感
 * CDNを前段に挟める静的WebサイトでQUICを使うのはよさそう
   * 趣味の範囲でもHTTP/3を使える
@@ -219,3 +227,8 @@ Open DevTools!
 * [インフラエンジニアなら気になるQUICのロードバランサ (方式編) \| by Jun-ya Kato \| nttlabs \| Medium](https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305)
 * [QUIC-LBを読んでみる Zenn](https://zenn.dev/eugene/articles/3b730bac2759da)
 * <https://github.com/F5Networks/quic-lb>
+* [HTTP/3でQUICv2を使うためのalt-svc拡張 - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2022/03/06/005252)
+* [HTTPSの接続情報を通知する "HTTPS DNSレコード" の提案仕様 (2021/07更新) - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2020/07/19/234103)
+* <https://datatracker.ietf.org/doc/draft-duke-httpbis-quic-version-alt-svc/>
+* <https://www.rfc-editor.org/rfc/rfc7838>
+* <https://datatracker.ietf.org/doc/draft-ietf-dnsop-svcb-https/>
