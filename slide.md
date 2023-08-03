@@ -232,3 +232,4 @@ Open DevTools!
 * <https://datatracker.ietf.org/doc/draft-duke-httpbis-quic-version-alt-svc/>
 * <https://www.rfc-editor.org/rfc/rfc7838>
 * <https://datatracker.ietf.org/doc/draft-ietf-dnsop-svcb-https/>
+* <https://http3-explained.haxx.se/>
