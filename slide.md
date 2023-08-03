@@ -185,6 +185,7 @@ Open DevTools!
 * <https://datatracker.ietf.org/doc/draft-ietf-quic-load-balancers/>
   * [HTTP/3をUDPロードバランサで分散するときの問題点 (AWS NLBで試してみた) - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2019/12/30/201331)
   * [インフラエンジニアなら気になるQUICのロードバランサ (方式編) \| by Jun-ya Kato \| nttlabs \| Medium](https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305)
+  * <https://github.com/F5Networks/quic-lb>
 * 議論&実験中
 
 # 個人的所感
@@ -217,3 +218,4 @@ Open DevTools!
 # 参考URL (2/2)
 * [インフラエンジニアなら気になるQUICのロードバランサ (方式編) \| by Jun-ya Kato \| nttlabs \| Medium](https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305)
 * [QUIC-LBを読んでみる Zenn](https://zenn.dev/eugene/articles/3b730bac2759da)
+* <https://github.com/F5Networks/quic-lb>
