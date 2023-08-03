@@ -214,7 +214,7 @@ Open DevTools!
 * QUIC-awareなload balancingはまだ議論段階
 
 
-# 参考URL (1/2)
+# 参考URL (1/3)
 * [QUICをゆっくり解説 – 新しいインターネット通信規格 \| IIJ Engineers Blog](https://eng-blog.iij.ad.jp/quic)
 * [サイトの HTTP3 化と DNS HTTPS RR および Alt-Svc Header によるアドバタイズ \| blog.jxck.io](https://blog.jxck.io/entries/2022-02-05/http3.html)
 * [AWS Fargate for Amazon ECS が Network Load Balancer を使用した UDP ロードバランシングのサポートを開始](https://aws.amazon.com/jp/about-aws/whats-new/2020/07/aws-fargate-for-amazon-ecs-now-supports-udp-load-balancing-with-network-load-balancer/)
@@ -223,7 +223,7 @@ Open DevTools!
 * <https://datatracker.ietf.org/doc/draft-ietf-quic-load-balancers/>
 * [HTTP/3をUDPロードバランサで分散するときの問題点 (AWS NLBで試してみた) - ASnoKaze blog](https://asnokaze.hatenablog.com/entry/2019/12/30/201331)
 
-# 参考URL (2/2)
+# 参考URL (2/3)
 * [インフラエンジニアなら気になるQUICのロードバランサ (方式編) \| by Jun-ya Kato \| nttlabs \| Medium](https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305)
 * [QUIC-LBを読んでみる Zenn](https://zenn.dev/eugene/articles/3b730bac2759da)
 * <https://github.com/F5Networks/quic-lb>
@@ -232,4 +232,6 @@ Open DevTools!
 * <https://datatracker.ietf.org/doc/draft-duke-httpbis-quic-version-alt-svc/>
 * <https://www.rfc-editor.org/rfc/rfc7838>
 * <https://datatracker.ietf.org/doc/draft-ietf-dnsop-svcb-https/>
+
+# 参考URL (3/3)
 * <https://http3-explained.haxx.se/>
