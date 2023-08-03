@@ -190,7 +190,7 @@ Open DevTools!
 
 # 余談: QUICを受け付ける
 * `Alt-Srv` ヘッダ
-  * `Alt-Svc: h3=":9443";ma=300;`
+  * `Alt-Svc: h3=":9443";`
   * <https://www.rfc-editor.org/rfc/rfc7838>
   * <https://datatracker.ietf.org/doc/draft-duke-httpbis-quic-version-alt-svc/>
 * DNS `HTTPS` レコード
